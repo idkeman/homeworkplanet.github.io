@@ -73,3 +73,13 @@ Every bit helps keep the servers running and new games coming.
   <strong>Homework Planet — Where the real grind happens.</strong><br>
   <em>School can wait. The games won’t.</em>
 </div>
+
+
+## Mega Library integration
+
+The new [Mega Game Library](mega-library.html) combines a searchable index of this repository's existing local game pages with catalog entries discovered in Seraph, MonkeyGG2, and HTML5 Game Archive. It also links to NettleWeb and preserves upstream/source attribution.
+
+- Local Homework Planet pages open on this site.
+- MonkeyGG2 and Seraph entries open external game-host paths.
+- HTML5 Game Archive entries open upstream source folders because a verified playable host and blanket redistribution license were not established.
+- No third-party game binaries were bulk-copied as part of this integration. Review [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) before mirroring individual games.
