@@ -1,0 +1,6269 @@
+{
+  "generated": "2026-11-19",
+  "counts": {
+    "homeworkPlanet": 288,
+    "monkeyGG2": 116,
+    "html5GameArchive": 145,
+    "seraph": 494
+  },
+  "games": [
+    {
+      "name": "1v1lol",
+      "path": "1v1lol.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "2v2",
+      "path": "2v2.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "3dflightsimulator",
+      "path": "3dflightsimulator.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "99nights",
+      "path": "99nights.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Adgac",
+      "path": "adgac.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Adventurecapitalist",
+      "path": "adventurecapitalist.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Amongus",
+      "path": "amongus.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Animalcraft",
+      "path": "animalcraft.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Ann",
+      "path": "ann.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Arrowarena",
+      "path": "arrowarena.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Astrotycoon",
+      "path": "astrotycoon.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Backrooms",
+      "path": "backrooms.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Badbodyguards",
+      "path": "badbodyguards.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Badparenting",
+      "path": "badparenting.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Balatro",
+      "path": "balatro.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Baldi",
+      "path": "baldi.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Ballorbit",
+      "path": "ballorbit.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Baseballbros",
+      "path": "baseballbros.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Basketballstars",
+      "path": "basketballstars.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Beastclash",
+      "path": "beastclash.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bendy",
+      "path": "bendy.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bikextreme",
+      "path": "bikextreme.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bitlife",
+      "path": "bitlife.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Blobade",
+      "path": "blobade.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Block",
+      "path": "block.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Blockblast",
+      "path": "blockblast.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Blocky",
+      "path": "blocky.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Blockyrider",
+      "path": "blockyrider.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Blockyrunner",
+      "path": "blockyrunner.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bloodmoney",
+      "path": "bloodmoney.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bloxd",
+      "path": "bloxd.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bloxorz",
+      "path": "bloxorz.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Boomslingers",
+      "path": "boomslingers.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bottlehop",
+      "path": "bottlehop.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bounceup",
+      "path": "bounceup.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bowmasters",
+      "path": "bowmasters.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Brainrotclicker",
+      "path": "brainrotclicker.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bucket",
+      "path": "bucket.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Buckshot",
+      "path": "buckshot.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Bulletbros",
+      "path": "bulletbros.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Burningrubber",
+      "path": "burningrubber.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Burnoutdrift",
+      "path": "burnoutdrift.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Burnoutdrift2",
+      "path": "burnoutdrift2.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Burnoutdrift3",
+      "path": "burnoutdrift3.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Burritobison",
+      "path": "burritobison.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Buzzy",
+      "path": "buzzy.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Calculator",
+      "path": "calculator.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Carchaos",
+      "path": "carchaos.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Catchaos",
+      "path": "catchaos.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Cattle",
+      "path": "cattle.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Celeste",
+      "path": "celeste.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Changelog",
+      "path": "changelog.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Chatgpt",
+      "path": "chatgpt.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Chatroom",
+      "path": "chatroom.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Cheatorrepeat",
+      "path": "cheatorrepeat.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Citybrawl",
+      "path": "citybrawl.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Classof09",
+      "path": "classof09.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Clusterrush",
+      "path": "clusterrush.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Codzombies",
+      "path": "codzombies.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Cookieclicker",
+      "path": "cookieclicker.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Cowboy",
+      "path": "cowboy.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Crazycars",
+      "path": "crazycars.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Crazytaxi",
+      "path": "crazytaxi.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Crossy",
+      "path": "crossy.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Cryzen",
+      "path": "cryzen.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Deadstrike",
+      "path": "deadstrike.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Deathrun3d",
+      "path": "deathrun3d.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Deeradventure",
+      "path": "deeradventure.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Deltarune",
+      "path": "deltarune.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Desmos",
+      "path": "desmos.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Disasters",
+      "path": "disasters.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Docs",
+      "path": "docs.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Doodlejump",
+      "path": "doodlejump.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Driftboss",
+      "path": "driftboss.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Drifthunters",
+      "path": "drifthunters.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Drivemad",
+      "path": "drivemad.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Ds",
+      "path": "ds.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Earntodie",
+      "path": "earntodie.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Eggycar",
+      "path": "eggycar.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Epstein",
+      "path": "epstein.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Escape2",
+      "path": "escape2.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Escapeanimals",
+      "path": "escapeanimals.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Escapecity",
+      "path": "escapecity.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Escapedrive",
+      "path": "escapedrive.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Escapejump",
+      "path": "escapejump.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Escaperoad",
+      "path": "escaperoad.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Escaperoad2",
+      "path": "escaperoad2.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Escaperoad3",
+      "path": "escaperoad3.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fallzoneio",
+      "path": "fallzoneio.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fartingflight",
+      "path": "fartingflight.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fearstofathom",
+      "path": "fearstofathom.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Findtheneedle",
+      "path": "findtheneedle.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fireboy",
+      "path": "fireboy.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fishit",
+      "path": "fishit.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Flappydunk",
+      "path": "flappydunk.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Flipside",
+      "path": "flipside.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fnaf",
+      "path": "fnaf.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fnaf2",
+      "path": "fnaf2.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fnaf3",
+      "path": "fnaf3.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fnaf4",
+      "path": "fnaf4.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fnafsb",
+      "path": "fnafsb.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fnafucn",
+      "path": "fnafucn.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Fnf",
+      "path": "fnf.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Frontwars",
+      "path": "frontwars.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Furychase",
+      "path": "furychase.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Garden",
+      "path": "garden.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Gba",
+      "path": "gba.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Genesis",
+      "path": "genesis.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Geometrydash",
+      "path": "geometrydash.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Gladihoppers",
+      "path": "gladihoppers.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Goatrampage",
+      "path": "goatrampage.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Gobdun",
+      "path": "gobdun.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Golfhit",
+      "path": "golfhit.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Googlefe23c3d7c798c17f",
+      "path": "googlefe23c3d7c798c17f.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Googoo",
+      "path": "googoo.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Granny",
+      "path": "granny.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Grindcraft",
+      "path": "grindcraft.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Gswitch3",
+      "path": "gswitch3.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Gta",
+      "path": "gta.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Gunmayhem",
+      "path": "gunmayhem.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Gunspin",
+      "path": "gunspin.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Halflife",
+      "path": "halflife.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Happywheels",
+      "path": "happywheels.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Hazards",
+      "path": "hazards.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Holearena",
+      "path": "holearena.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Holeio",
+      "path": "holeio.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Hollowknight",
+      "path": "hollowknight.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Horrornun",
+      "path": "horrornun.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Iamquadrober",
+      "path": "iamquadrober.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Icebabyquest",
+      "path": "icebabyquest.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Incredibox",
+      "path": "incredibox.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Infinitecraft",
+      "path": "infinitecraft.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Ironsnout",
+      "path": "ironsnout.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Jetpackjoyride",
+      "path": "jetpackjoyride.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Jetski",
+      "path": "jetski.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Johnnytrigger",
+      "path": "johnnytrigger.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Kartbros",
+      "path": "kartbros.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Kickthebuddy",
+      "path": "kickthebuddy.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Kirka",
+      "path": "kirka.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Knifetower",
+      "path": "knifetower.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Kour",
+      "path": "kour.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Krunker",
+      "path": "krunker.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Labhavoc",
+      "path": "labhavoc.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Learntofly",
+      "path": "learntofly.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Leveldevil",
+      "path": "leveldevil.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Loopcrash2",
+      "path": "loopcrash2.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Macos",
+      "path": "macos.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Madalin",
+      "path": "madalin.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Madness",
+      "path": "madness.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Mario",
+      "path": "mario.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Mecchachameleon",
+      "path": "mecchachameleon.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Minecraft",
+      "path": "minecraft.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Minefun",
+      "path": "minefun.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Motox3m",
+      "path": "motox3m.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Mountainbike",
+      "path": "mountainbike.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Mxoffroadmaster",
+      "path": "mxoffroadmaster.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "N64",
+      "path": "n64.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Narrowone",
+      "path": "narrowone.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Nes",
+      "path": "nes.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Netflix",
+      "path": "netflix.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Nubby",
+      "path": "nubby.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Officefury",
+      "path": "officefury.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Omegle",
+      "path": "omegle.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Omori",
+      "path": "omori.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Oneshot",
+      "path": "oneshot.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Orbitbeats",
+      "path": "orbitbeats.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Orbitkick",
+      "path": "orbitkick.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Osu",
+      "path": "osu.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Papasburgeria",
+      "path": "papasburgeria.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Papasfreezeria",
+      "path": "papasfreezeria.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Papaspizzeria",
+      "path": "papaspizzeria.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Paper",
+      "path": "paper.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Papersplease",
+      "path": "papersplease.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Pizzatower",
+      "path": "pizzatower.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Plagueinc",
+      "path": "plagueinc.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Pokerogue",
+      "path": "pokerogue.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Polytrack",
+      "path": "polytrack.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Poorbunny",
+      "path": "poorbunny.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Poppyplaytime",
+      "path": "poppyplaytime.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Power",
+      "path": "power.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Poxel",
+      "path": "poxel.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Ps1",
+      "path": "ps1.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Pvb",
+      "path": "pvb.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Pvz",
+      "path": "pvz.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Py",
+      "path": "py.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Raft",
+      "path": "raft.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Ragdollarchers",
+      "path": "ragdollarchers.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Ragdollarena",
+      "path": "ragdollarena.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Ragdollhit",
+      "path": "ragdollhit.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Ragdollplayground",
+      "path": "ragdollplayground.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Rapidrally",
+      "path": "rapidrally.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Repo",
+      "path": "repo.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Retrobowl",
+      "path": "retrobowl.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Rivals",
+      "path": "rivals.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Roblox",
+      "path": "roblox.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Rocketleague",
+      "path": "rocketleague.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Rooftop",
+      "path": "rooftop.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Route66",
+      "path": "route66.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Run3",
+      "path": "run3.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Rust",
+      "path": "rust.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Sandboxcity",
+      "path": "sandboxcity.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Sausagebattle",
+      "path": "sausagebattle.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Schoolboyrunaway",
+      "path": "schoolboyrunaway.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Schoolfury",
+      "path": "schoolfury.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Shipsmasher",
+      "path": "shipsmasher.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Shogunshowdown",
+      "path": "shogunshowdown.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Sideeffects",
+      "path": "sideeffects.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Sketchpad",
+      "path": "sketchpad.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Skiingfred",
+      "path": "skiingfred.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Skipit",
+      "path": "skipit.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Skydart",
+      "path": "skydart.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Slapchampions",
+      "path": "slapchampions.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Slope",
+      "path": "slope.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Slowroads",
+      "path": "slowroads.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Smashkarts",
+      "path": "smashkarts.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Snake",
+      "path": "snake.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Snes",
+      "path": "snes.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Sniperforbrainrot",
+      "path": "sniperforbrainrot.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Snowroad",
+      "path": "snowroad.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Soccerphysics",
+      "path": "soccerphysics.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Sonicexe",
+      "path": "sonicexe.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Sorrybob",
+      "path": "sorrybob.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Soundboard",
+      "path": "soundboard.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Soyjaksiege",
+      "path": "soyjaksiege.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Spacewaves",
+      "path": "spacewaves.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Speedshooter",
+      "path": "speedshooter.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Speedstars",
+      "path": "speedstars.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Spotify",
+      "path": "spotify.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Stardew",
+      "path": "stardew.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Starfox",
+      "path": "starfox.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Stealabrainrot",
+      "path": "stealabrainrot.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Stickfight",
+      "path": "stickfight.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Stickhero",
+      "path": "stickhero.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Stickman",
+      "path": "stickman.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Stickmanhook",
+      "path": "stickmanhook.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Stumbleguys",
+      "path": "stumbleguys.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Subwaysurfers",
+      "path": "subwaysurfers.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Superbearadventure",
+      "path": "superbearadventure.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Supermario63",
+      "path": "supermario63.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Support",
+      "path": "support.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Survivalrace",
+      "path": "survivalrace.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Swing",
+      "path": "swing.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tabs",
+      "path": "tabs.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tag",
+      "path": "tag.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tag2",
+      "path": "tag2.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tankstars",
+      "path": "tankstars.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tapbrawl",
+      "path": "tapbrawl.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tapdrift",
+      "path": "tapdrift.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Td3",
+      "path": "td3.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Td5",
+      "path": "td5.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Td6",
+      "path": "td6.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tennis",
+      "path": "tennis.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Thatsnotmyneighbor",
+      "path": "thatsnotmyneighbor.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Thebodyguard",
+      "path": "thebodyguard.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Thefinalearth2",
+      "path": "thefinalearth2.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Timeshooter3",
+      "path": "timeshooter3.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tinyarena",
+      "path": "tinyarena.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tinyfishing",
+      "path": "tinyfishing.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Totm",
+      "path": "totm.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Trackdash",
+      "path": "trackdash.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Traffic Rally",
+      "path": "traffic-rally.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Treeshateyou",
+      "path": "treeshateyou.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Trucksimulatoreuropeanroads",
+      "path": "trucksimulatoreuropeanroads.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Trump",
+      "path": "trump.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tsunami",
+      "path": "tsunami.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tubefight",
+      "path": "tubefight.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Tung",
+      "path": "tung.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Turbodismount",
+      "path": "turbodismount.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Typing",
+      "path": "typing.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Ultrakill",
+      "path": "ultrakill.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Undeadcorridor",
+      "path": "undeadcorridor.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Undertale",
+      "path": "undertale.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Unfairmario",
+      "path": "unfairmario.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Vex3",
+      "path": "vex3.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Vicecity",
+      "path": "vicecity.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Voxiom",
+      "path": "voxiom.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Wackyflip",
+      "path": "wackyflip.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Wackysteps",
+      "path": "wackysteps.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Warbrokers",
+      "path": "warbrokers.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Westernsniper",
+      "path": "westernsniper.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Wheeliemaster",
+      "path": "wheeliemaster.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Worldbox",
+      "path": "worldbox.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Worldguessr",
+      "path": "worldguessr.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Wrestlebros",
+      "path": "wrestlebros.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Xbox",
+      "path": "xbox.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Zombiedash",
+      "path": "zombiedash.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Zombiederby",
+      "path": "zombiederby.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "Zombsroyale",
+      "path": "zombsroyale.html",
+      "source": "Homework Planet",
+      "kind": "local"
+    },
+    {
+      "name": "10 Minutes Till Dawn",
+      "path": "https://monkeygg2.github.io/games/10-minutes-till-dawn/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "1v1 Lol",
+      "path": "https://monkeygg2.github.io/games/1v1-lol/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "2048",
+      "path": "https://monkeygg2.github.io/games/2048/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "A Dark Room",
+      "path": "https://monkeygg2.github.io/games/a-dark-room/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Abandoned",
+      "path": "https://monkeygg2.github.io/games/abandoned/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Abandoned 2",
+      "path": "https://monkeygg2.github.io/games/abandoned-2/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Ages Of Conflict",
+      "path": "https://monkeygg2.github.io/games/ages-of-conflict/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Aground",
+      "path": "https://monkeygg2.github.io/games/aground/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Amidst The Sky",
+      "path": "https://monkeygg2.github.io/games/amidst-the-sky/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Ampler Launcher",
+      "path": "https://monkeygg2.github.io/games/ampler-launcher/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Another Gentlemans Adventure",
+      "path": "https://monkeygg2.github.io/games/another-gentlemans-adventure/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Awesome Tanks",
+      "path": "https://monkeygg2.github.io/games/awesome-tanks/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Awesome Tanks 2",
+      "path": "https://monkeygg2.github.io/games/awesome-tanks-2/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Babel Tower",
+      "path": "https://monkeygg2.github.io/games/babel-tower/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Basket Random",
+      "path": "https://monkeygg2.github.io/games/basket-random/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Basketball Stars",
+      "path": "https://monkeygg2.github.io/games/basketball-stars/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Bit Life",
+      "path": "https://monkeygg2.github.io/games/bit-life/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Boxing Random",
+      "path": "https://monkeygg2.github.io/games/boxing-random/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Brawl Stars Project Laser",
+      "path": "https://monkeygg2.github.io/games/brawl-stars-project-laser/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Breaklock",
+      "path": "https://monkeygg2.github.io/games/breaklock/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Chrome Dino",
+      "path": "https://monkeygg2.github.io/games/chrome-dino/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Clicker Heroes",
+      "path": "https://monkeygg2.github.io/games/clicker-heroes/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Clicker Heroes Updated",
+      "path": "https://monkeygg2.github.io/games/clicker-heroes-updated/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Conways Game Of Life",
+      "path": "https://monkeygg2.github.io/games/conways-game-of-life/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Cookie Clicker",
+      "path": "https://monkeygg2.github.io/games/cookie-clicker/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Core Ball",
+      "path": "https://monkeygg2.github.io/games/core-ball/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Crossy Road",
+      "path": "https://monkeygg2.github.io/games/crossy-road/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Cut The Rope",
+      "path": "https://monkeygg2.github.io/games/cut-the-rope/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Doge Miner",
+      "path": "https://monkeygg2.github.io/games/doge-miner/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Doodle Jump",
+      "path": "https://monkeygg2.github.io/games/doodle-jump/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Drift Boss",
+      "path": "https://monkeygg2.github.io/games/drift-boss/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Drive Mad",
+      "path": "https://monkeygg2.github.io/games/drive-mad/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Drive Mad S",
+      "path": "https://monkeygg2.github.io/games/drive-mad-s/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Duck Life 4",
+      "path": "https://monkeygg2.github.io/games/duck-life-4/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Dune",
+      "path": "https://monkeygg2.github.io/games/dune/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Eggy Car",
+      "path": "https://monkeygg2.github.io/games/eggy-car/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Evowars",
+      "path": "https://monkeygg2.github.io/games/evowars/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Family Feud",
+      "path": "https://monkeygg2.github.io/games/family-feud/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Fireboy And Watergirl",
+      "path": "https://monkeygg2.github.io/games/fireboy-and-watergirl/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Fireboy And Watergirl 2",
+      "path": "https://monkeygg2.github.io/games/fireboy-and-watergirl-2/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Fireboy And Watergirl 3",
+      "path": "https://monkeygg2.github.io/games/fireboy-and-watergirl-3/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Fireboy And Watergirl 4",
+      "path": "https://monkeygg2.github.io/games/fireboy-and-watergirl-4/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Five Nights At Epsteins",
+      "path": "https://monkeygg2.github.io/games/five-nights-at-epsteins/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Flappy Bird",
+      "path": "https://monkeygg2.github.io/games/flappy-bird/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Friday Night Funkin",
+      "path": "https://monkeygg2.github.io/games/friday-night-funkin/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Geometry Dash Lite",
+      "path": "https://monkeygg2.github.io/games/geometry-dash-lite/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Geometry Dash Remastered",
+      "path": "https://monkeygg2.github.io/games/geometry-dash-remastered/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Geometry Vibes",
+      "path": "https://monkeygg2.github.io/games/geometry-vibes/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Geometry Vibes Monster",
+      "path": "https://monkeygg2.github.io/games/geometry-vibes-monster/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Geometry Vibes X Ball",
+      "path": "https://monkeygg2.github.io/games/geometry-vibes-x-ball/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Getaway Shootout",
+      "path": "https://monkeygg2.github.io/games/getaway-shootout/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Gons Io",
+      "path": "https://monkeygg2.github.io/games/gons-io/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Gunspin",
+      "path": "https://monkeygg2.github.io/games/gunspin/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Hextris",
+      "path": "https://monkeygg2.github.io/games/hextris/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Idle Breakout",
+      "path": "https://monkeygg2.github.io/games/idle-breakout/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Incremancer",
+      "path": "https://monkeygg2.github.io/games/incremancer/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Lion Soldiers Vengeance",
+      "path": "https://monkeygg2.github.io/games/lion-soldiers-vengeance/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Maptroid",
+      "path": "https://monkeygg2.github.io/games/maptroid/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Mario Game",
+      "path": "https://monkeygg2.github.io/games/mario-game/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Monkey Mart",
+      "path": "https://monkeygg2.github.io/games/monkey-mart/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Motox3m",
+      "path": "https://monkeygg2.github.io/games/motox3m/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "N Gon",
+      "path": "https://monkeygg2.github.io/games/n-gon/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "N Step Steve Part 1",
+      "path": "https://monkeygg2.github.io/games/n-step-steve-part-1/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "N Step Steve Part 2",
+      "path": "https://monkeygg2.github.io/games/n-step-steve-part-2/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Ovo",
+      "path": "https://monkeygg2.github.io/games/ovo/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Particle Clicker",
+      "path": "https://monkeygg2.github.io/games/particle-clicker/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Pcraft",
+      "path": "https://monkeygg2.github.io/games/pcraft/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Planet Life",
+      "path": "https://monkeygg2.github.io/games/planet-life/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Progress Knight Quest",
+      "path": "https://monkeygg2.github.io/games/progress-knight-quest/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Progress Knight Reborn",
+      "path": "https://monkeygg2.github.io/games/progress-knight-reborn/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Pull Of War",
+      "path": "https://monkeygg2.github.io/games/pull-of-war/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Reach The Core",
+      "path": "https://monkeygg2.github.io/games/reach-the-core/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Restless Wing Syndrome",
+      "path": "https://monkeygg2.github.io/games/restless-wing-syndrome/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Retro Bowl",
+      "path": "https://monkeygg2.github.io/games/retro-bowl/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Retro Bowl Old",
+      "path": "https://monkeygg2.github.io/games/retro-bowl-old/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Rift Shift",
+      "path": "https://monkeygg2.github.io/games/rift-shift/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Rocket League 2d",
+      "path": "https://monkeygg2.github.io/games/rocket-league-2d/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Rooftop Snipers",
+      "path": "https://monkeygg2.github.io/games/rooftop-snipers/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Rookie Bowman",
+      "path": "https://monkeygg2.github.io/games/rookie-bowman/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Run 3",
+      "path": "https://monkeygg2.github.io/games/run-3/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Run 3 Beta",
+      "path": "https://monkeygg2.github.io/games/run-3-beta/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Sabercut",
+      "path": "https://monkeygg2.github.io/games/sabercut/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Sandspiel",
+      "path": "https://monkeygg2.github.io/games/sandspiel/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Scuba Bear",
+      "path": "https://monkeygg2.github.io/games/scuba-bear/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Shadow Fight",
+      "path": "https://monkeygg2.github.io/games/shadow-fight/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Slice Master",
+      "path": "https://monkeygg2.github.io/games/slice-master/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Slope",
+      "path": "https://monkeygg2.github.io/games/slope/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Smart Ball",
+      "path": "https://monkeygg2.github.io/games/smart-ball/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Smash Karts",
+      "path": "https://monkeygg2.github.io/games/smash-karts/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Soccer Random",
+      "path": "https://monkeygg2.github.io/games/soccer-random/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Station Saturn",
+      "path": "https://monkeygg2.github.io/games/station-saturn/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Stickman Hook",
+      "path": "https://monkeygg2.github.io/games/stickman-hook/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Subway Surfers",
+      "path": "https://monkeygg2.github.io/games/subway-surfers/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Subway Surfers Ny",
+      "path": "https://monkeygg2.github.io/games/subway-surfers-ny/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Tanuki Sunset",
+      "path": "https://monkeygg2.github.io/games/tanuki-sunset/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Temple Run 2",
+      "path": "https://monkeygg2.github.io/games/temple-run-2/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "The Final Earth",
+      "path": "https://monkeygg2.github.io/games/the-final-earth/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "The Treasure",
+      "path": "https://monkeygg2.github.io/games/the-treasure/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "There Is No Game",
+      "path": "https://monkeygg2.github.io/games/there-is-no-game/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Tic Tac What",
+      "path": "https://monkeygg2.github.io/games/tic-tac-what/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Time Shooter",
+      "path": "https://monkeygg2.github.io/games/time-shooter/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Time Shooter 3",
+      "path": "https://monkeygg2.github.io/games/time-shooter-3/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Tiny Fishing",
+      "path": "https://monkeygg2.github.io/games/tiny-fishing/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Trace",
+      "path": "https://monkeygg2.github.io/games/trace/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Tunnel Rush",
+      "path": "https://monkeygg2.github.io/games/tunnel-rush/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Two Ball 3d",
+      "path": "https://monkeygg2.github.io/games/two-ball-3d/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Vex 3",
+      "path": "https://monkeygg2.github.io/games/vex-3/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Vex 4",
+      "path": "https://monkeygg2.github.io/games/vex-4/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Vex 5",
+      "path": "https://monkeygg2.github.io/games/vex-5/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Vex 6",
+      "path": "https://monkeygg2.github.io/games/vex-6/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Vex 7",
+      "path": "https://monkeygg2.github.io/games/vex-7/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Volley Random",
+      "path": "https://monkeygg2.github.io/games/volley-random/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Web Osu",
+      "path": "https://monkeygg2.github.io/games/web-osu/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Where Is The Water",
+      "path": "https://monkeygg2.github.io/games/where-is-the-water/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "X Trench Run",
+      "path": "https://monkeygg2.github.io/games/x-trench-run/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "Yohoho",
+      "path": "https://monkeygg2.github.io/games/yohoho/",
+      "source": "MonkeyGG2",
+      "kind": "external"
+    },
+    {
+      "name": "1v1lol",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/1v1lol",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "2048",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/2048",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Adarkroom",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/adarkroom",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Asciispace",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/asciispace",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Assessmentexamination",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/assessmentexamination",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Asteroids",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/asteroids",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Astray",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/astray",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Backcountry",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/backcountry",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Baldisbasics",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/baldisbasics",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Basketballlegends",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/basketballlegends",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Basketballstars",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/basketballstars",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Basketbrosio",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/basketbrosio",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Basketrandom",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/basketrandom",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Bitlife",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/bitlife",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Blackholesquare",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/blackholesquare",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Bounceback",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/bounceback",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Boxingrandom",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/boxingrandom",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Breaklock",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/breaklock",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Breakout",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/breakout",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Btd4",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/btd4",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Captaincallisto",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/captaincallisto",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Chess",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/chess",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Chromaincident",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/chromaincident",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Chromedino",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/chromedino",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Clickerheroes",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/clickerheroes",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Clusterrush",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/clusterrush",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Connect3",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/connect3",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Cookieclicker",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/cookieclicker",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Crossyroad",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/crossyroad",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Csgoclicker",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/csgoclicker",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Cubefield",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/cubefield",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Cubitomayhem",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/cubitomayhem",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Cuttherope",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/cuttherope",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Cuttheropeholiday",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/cuttheropeholiday",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Cuttheropetimetravel",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/cuttheropetimetravel",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Deathrun3d",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/deathrun3d",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Deepestsword",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/deepestsword",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Doodlejump",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/doodlejump",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Doom",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/doom",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Drawthehill",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/drawthehill",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Drift",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/drift",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Drifthunters",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/drifthunters",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Drivemad",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/drivemad",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Ducklife",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/ducklife",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Ducklife2",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/ducklife2",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Ducklife3",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/ducklife3",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Ducklife4",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/ducklife4",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Ducklife5",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/ducklife5",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Earntodie",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/earntodie",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Edgenotfound",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/edgenotfound",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Eggycar",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/eggycar",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Evilglitch",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/evilglitch",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Factoryballsforever",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/factoryballsforever",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Fireboyandwatergirlforesttemple",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/fireboyandwatergirlforesttemple",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Flappy2048",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/flappy2048",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Flappybird",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/flappybird",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Flappyplane",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/flappyplane",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Flightsimulator",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/flightsimulator",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Fridaynightfunkin",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/fridaynightfunkin",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Friendlyfire",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/friendlyfire",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Fruitninja",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/fruitninja",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Geometrydash",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/geometrydash",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Getawayshootoutnew",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/getawayshootoutnew",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Gladihoppers",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/gladihoppers",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Googlesnake",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/googlesnake",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Gopherkart",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/gopherkart",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Grindcraft",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/grindcraft",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Hexgl",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/hexgl",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Hextris",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/hextris",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Highwaytraffic",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/highwaytraffic",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Konnekt",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/konnekt",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Learntofly",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/learntofly",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Letssurf",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/letssurf",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Littlealchemy",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/littlealchemy",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Mergeroundracers",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/mergeroundracers",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Monkeymart",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/monkeymart",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Motoroadrash3d",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/motoroadrash3d",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Motox3m",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/motox3m",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Ninjavsevilcorp",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/ninjavsevilcorp",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Omnombounce",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/omnombounce",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Ovo",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/ovo",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Ovo2",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/ovo2",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Packabunchas",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/packabunchas",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Pacman",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/pacman",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Paperio",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/paperio",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Particleclicker",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/particleclicker",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Pushback",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/pushback",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Q1k3",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/q1k3",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "R3",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/r3",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Racer",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/racer",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Radiusraid",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/radiusraid",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Redball4",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/redball4",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Retrobowl",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/retrobowl",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Retrohaunt",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/retrohaunt",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Riddleschool2",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/riddleschool2",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Ritz",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/ritz",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Roadblocks",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/roadblocks",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Rooftopsnipers",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/rooftopsnipers",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Run3",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/run3",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Scrapmetal3",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/scrapmetal3",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Shuttledeck",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/shuttledeck",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Sketchbook04",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/sketchbook04",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Sleepingbeauty",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/sleepingbeauty",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Slitherio",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/slitherio",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Slope",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/slope",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Slope2",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/slope2",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Snake",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/snake",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Snowbattle",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/snowbattle",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Soccerrandom",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/soccerrandom",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Solitaire",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/solitaire",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Spacecompany",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/spacecompany",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Spacegarden",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/spacegarden",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Spacehuggers",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/spacehuggers",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Spaceinvaders",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/spaceinvaders",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Stack",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/stack",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Stackball",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/stackball",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Stickman Hook",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/stickman-hook",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Stickmanboost",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/stickmanboost",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Stickmanclimb",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/stickmanclimb",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Stickmangolf",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/stickmangolf",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Stickmanhook",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/stickmanhook",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Stickmansurvival",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/stickmansurvival",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Subwaysurfers",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/subwaysurfers",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Subwaysurfersny",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/subwaysurfersny",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Subwaysurferssingapore",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/subwaysurferssingapore",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Tanukisunset",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/tanukisunset",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Tetris",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/tetris",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Themazeofspacegoblins",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/themazeofspacegoblins",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Timeshooter",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/timeshooter",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Timeshooter2",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/timeshooter2",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Timeshooter3",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/timeshooter3",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Tinyfishing",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/tinyfishing",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Tombofthemask",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/tombofthemask",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Topspeedracing3d",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/topspeedracing3d",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Towermaster",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/towermaster",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Trimps",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/trimps",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Tunnelrush",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/tunnelrush",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Vex3",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/vex3",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Vex4",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/vex4",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Vex5",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/vex5",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Vex6",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/vex6",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Webecomewhatwebehold",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/webecomewhatwebehold",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Worldshardestgame2",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/worldshardestgame2",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Xx142b2exe",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/xx142b2exe",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "Zombsroyale",
+      "path": "https://github.com/HTML5GameArchive/gfiles/tree/master/games/zombsroyale",
+      "source": "HTML5 Game Archive",
+      "kind": "source"
+    },
+    {
+      "name": "10minutestilldawn",
+      "path": "https://seraph.reveriestudios.online/games/10minutestilldawn/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "1on1soccer",
+      "path": "https://seraph.reveriestudios.online/games/1on1soccer/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "1v1lol",
+      "path": "https://seraph.reveriestudios.online/games/1v1lol/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "2048",
+      "path": "https://seraph.reveriestudios.online/games/2048/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "3line",
+      "path": "https://seraph.reveriestudios.online/games/3line/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Abudathealien",
+      "path": "https://seraph.reveriestudios.online/games/abudathealien/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Aceattorney",
+      "path": "https://seraph.reveriestudios.online/games/aceattorney/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Achievementunlocked",
+      "path": "https://seraph.reveriestudios.online/games/achievementunlocked/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Achievementunlocked2",
+      "path": "https://seraph.reveriestudios.online/games/achievementunlocked2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Achievementunlocked3",
+      "path": "https://seraph.reveriestudios.online/games/achievementunlocked3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Adofai",
+      "path": "https://seraph.reveriestudios.online/games/adofai/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Advancewars",
+      "path": "https://seraph.reveriestudios.online/games/advancewars/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Advancewars2",
+      "path": "https://seraph.reveriestudios.online/games/advancewars2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Advancewarsdayofruin",
+      "path": "https://seraph.reveriestudios.online/games/advancewarsdayofruin/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Adventurecapitalist",
+      "path": "https://seraph.reveriestudios.online/games/adventurecapitalist/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Adventuretime",
+      "path": "https://seraph.reveriestudios.online/games/adventuretime/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ageofwar",
+      "path": "https://seraph.reveriestudios.online/games/ageofwar/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ageofwar2",
+      "path": "https://seraph.reveriestudios.online/games/ageofwar2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Alteredbeast",
+      "path": "https://seraph.reveriestudios.online/games/alteredbeast/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Amazingropepolice",
+      "path": "https://seraph.reveriestudios.online/games/amazingropepolice/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Amongus",
+      "path": "https://seraph.reveriestudios.online/games/amongus/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Amorphous",
+      "path": "https://seraph.reveriestudios.online/games/amorphous/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Animalcrossingwildworld",
+      "path": "https://seraph.reveriestudios.online/games/animalcrossingwildworld/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Aquaparkslides",
+      "path": "https://seraph.reveriestudios.online/games/aquaparkslides/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Backrooms2d",
+      "path": "https://seraph.reveriestudios.online/games/backrooms2d/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Badicecream",
+      "path": "https://seraph.reveriestudios.online/games/badicecream/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Badicecream2",
+      "path": "https://seraph.reveriestudios.online/games/badicecream2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Badicecream3",
+      "path": "https://seraph.reveriestudios.online/games/badicecream3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Badpiggies",
+      "path": "https://seraph.reveriestudios.online/games/badpiggies/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Badtimesimulator",
+      "path": "https://seraph.reveriestudios.online/games/badtimesimulator/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Baldisbasics",
+      "path": "https://seraph.reveriestudios.online/games/baldisbasics/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ballisticchickens",
+      "path": "https://seraph.reveriestudios.online/games/ballisticchickens/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Balloonrun",
+      "path": "https://seraph.reveriestudios.online/games/balloonrun/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Banjokazooie",
+      "path": "https://seraph.reveriestudios.online/games/banjokazooie/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Banjopilot",
+      "path": "https://seraph.reveriestudios.online/games/banjopilot/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Banjotooie",
+      "path": "https://seraph.reveriestudios.online/games/banjotooie/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Basketbrosio",
+      "path": "https://seraph.reveriestudios.online/games/basketbrosio/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Basketrandom",
+      "path": "https://seraph.reveriestudios.online/games/basketrandom/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Battlebeavers",
+      "path": "https://seraph.reveriestudios.online/games/battlebeavers/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Battleships",
+      "path": "https://seraph.reveriestudios.online/games/battleships/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Battletoads",
+      "path": "https://seraph.reveriestudios.online/games/battletoads/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Bigredbutton",
+      "path": "https://seraph.reveriestudios.online/games/bigredbutton/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Bikechamp",
+      "path": "https://seraph.reveriestudios.online/games/bikechamp/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Bikechamp2",
+      "path": "https://seraph.reveriestudios.online/games/bikechamp2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Bitlife",
+      "path": "https://seraph.reveriestudios.online/games/bitlife/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Bloxors",
+      "path": "https://seraph.reveriestudios.online/games/bloxors/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Bobtherobber2",
+      "path": "https://seraph.reveriestudios.online/games/bobtherobber2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Bomberman",
+      "path": "https://seraph.reveriestudios.online/games/bomberman/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Bowsersinsidestory",
+      "path": "https://seraph.reveriestudios.online/games/bowsersinsidestory/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Boxingphysics2",
+      "path": "https://seraph.reveriestudios.online/games/boxingphysics2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Boxingrandom",
+      "path": "https://seraph.reveriestudios.online/games/boxingrandom/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Breakingthebank",
+      "path": "https://seraph.reveriestudios.online/games/breakingthebank/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Btd",
+      "path": "https://seraph.reveriestudios.online/games/btd/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Bubblespinner",
+      "path": "https://seraph.reveriestudios.online/games/bubblespinner/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Bubbletanks2",
+      "path": "https://seraph.reveriestudios.online/games/bubbletanks2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Burgerandfrights",
+      "path": "https://seraph.reveriestudios.online/games/burgerandfrights/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Burritobison",
+      "path": "https://seraph.reveriestudios.online/games/burritobison/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Cactusmccoy",
+      "path": "https://seraph.reveriestudios.online/games/cactusmccoy/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Cactusmccoy2",
+      "path": "https://seraph.reveriestudios.online/games/cactusmccoy2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Canopy",
+      "path": "https://seraph.reveriestudios.online/games/canopy/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Cars2",
+      "path": "https://seraph.reveriestudios.online/games/cars2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Castlevania",
+      "path": "https://seraph.reveriestudios.online/games/castlevania/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Castlevaniaariaofsorrow",
+      "path": "https://seraph.reveriestudios.online/games/castlevaniaariaofsorrow/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Castlevaniadawnofsorrow",
+      "path": "https://seraph.reveriestudios.online/games/castlevaniadawnofsorrow/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Castlevaniaiii",
+      "path": "https://seraph.reveriestudios.online/games/castlevaniaiii/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Castlevaniaorderofecclesia",
+      "path": "https://seraph.reveriestudios.online/games/castlevaniaorderofecclesia/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Cavechaos",
+      "path": "https://seraph.reveriestudios.online/games/cavechaos/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Celeste",
+      "path": "https://seraph.reveriestudios.online/games/celeste/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Cellmachine",
+      "path": "https://seraph.reveriestudios.online/games/cellmachine/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Championisland",
+      "path": "https://seraph.reveriestudios.online/games/championisland/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Changetype",
+      "path": "https://seraph.reveriestudios.online/games/changetype/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Cheesedreams",
+      "path": "https://seraph.reveriestudios.online/games/cheesedreams/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Chess",
+      "path": "https://seraph.reveriestudios.online/games/chess/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Chibiknight",
+      "path": "https://seraph.reveriestudios.online/games/chibiknight/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Chisel",
+      "path": "https://seraph.reveriestudios.online/games/chisel/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Chisel2",
+      "path": "https://seraph.reveriestudios.online/games/chisel2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Chooseyourweapon",
+      "path": "https://seraph.reveriestudios.online/games/chooseyourweapon/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Chooseyourweapon2",
+      "path": "https://seraph.reveriestudios.online/games/chooseyourweapon2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Chooseyourweapon3",
+      "path": "https://seraph.reveriestudios.online/games/chooseyourweapon3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Chronotrigger",
+      "path": "https://seraph.reveriestudios.online/games/chronotrigger/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Clickerheroes",
+      "path": "https://seraph.reveriestudios.online/games/clickerheroes/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Clusterrush",
+      "path": "https://seraph.reveriestudios.online/games/clusterrush/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Colorswitch",
+      "path": "https://seraph.reveriestudios.online/games/colorswitch/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Comixzone",
+      "path": "https://seraph.reveriestudios.online/games/comixzone/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Connect4",
+      "path": "https://seraph.reveriestudios.online/games/connect4/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Contra",
+      "path": "https://seraph.reveriestudios.online/games/contra/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Contraiii",
+      "path": "https://seraph.reveriestudios.online/games/contraiii/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Controlcraft2",
+      "path": "https://seraph.reveriestudios.online/games/controlcraft2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Cookieclicker",
+      "path": "https://seraph.reveriestudios.online/games/cookieclicker/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Cookingmama",
+      "path": "https://seraph.reveriestudios.online/games/cookingmama/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Corporationinc",
+      "path": "https://seraph.reveriestudios.online/games/corporationinc/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Crazytunnel3d",
+      "path": "https://seraph.reveriestudios.online/games/crazytunnel3d/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Crimsonfantasia",
+      "path": "https://seraph.reveriestudios.online/games/crimsonfantasia/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Crossy",
+      "path": "https://seraph.reveriestudios.online/games/crossy/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Crushthecastle",
+      "path": "https://seraph.reveriestudios.online/games/crushthecastle/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Crushthecastle2",
+      "path": "https://seraph.reveriestudios.online/games/crushthecastle2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Csgoclicker",
+      "path": "https://seraph.reveriestudios.online/games/csgoclicker/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Cubefield",
+      "path": "https://seraph.reveriestudios.online/games/cubefield/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Cuttherope",
+      "path": "https://seraph.reveriestudios.online/games/cuttherope/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Dadish",
+      "path": "https://seraph.reveriestudios.online/games/dadish/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Dadish2",
+      "path": "https://seraph.reveriestudios.online/games/dadish2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Dadish3",
+      "path": "https://seraph.reveriestudios.online/games/dadish3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Dbzsupersonicwarriors",
+      "path": "https://seraph.reveriestudios.online/games/dbzsupersonicwarriors/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Deathrun3d",
+      "path": "https://seraph.reveriestudios.online/games/deathrun3d/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Defendthetank",
+      "path": "https://seraph.reveriestudios.online/games/defendthetank/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Diddykongracing",
+      "path": "https://seraph.reveriestudios.online/games/diddykongracing/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Dinogame",
+      "path": "https://seraph.reveriestudios.online/games/dinogame/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ditto",
+      "path": "https://seraph.reveriestudios.online/games/ditto/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Dogeminer",
+      "path": "https://seraph.reveriestudios.online/games/dogeminer/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Donkeykong",
+      "path": "https://seraph.reveriestudios.online/games/donkeykong/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Donkeykong64",
+      "path": "https://seraph.reveriestudios.online/games/donkeykong64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Donkeykongcountry",
+      "path": "https://seraph.reveriestudios.online/games/donkeykongcountry/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Donkeykongcountry2",
+      "path": "https://seraph.reveriestudios.online/games/donkeykongcountry2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Donkeykongcountry3",
+      "path": "https://seraph.reveriestudios.online/games/donkeykongcountry3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Donkeykongland",
+      "path": "https://seraph.reveriestudios.online/games/donkeykongland/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Doodledefender",
+      "path": "https://seraph.reveriestudios.online/games/doodledefender/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Doodlejump",
+      "path": "https://seraph.reveriestudios.online/games/doodlejump/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Doom",
+      "path": "https://seraph.reveriestudios.online/games/doom/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Doom2",
+      "path": "https://seraph.reveriestudios.online/games/doom2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Doom64",
+      "path": "https://seraph.reveriestudios.online/games/doom64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Dragonboy2",
+      "path": "https://seraph.reveriestudios.online/games/dragonboy2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Driftboss",
+      "path": "https://seraph.reveriestudios.online/games/driftboss/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Drifthunters",
+      "path": "https://seraph.reveriestudios.online/games/drifthunters/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Driftmania",
+      "path": "https://seraph.reveriestudios.online/games/driftmania/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Drilldozer",
+      "path": "https://seraph.reveriestudios.online/games/drilldozer/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Drmario",
+      "path": "https://seraph.reveriestudios.online/games/drmario/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ducklife",
+      "path": "https://seraph.reveriestudios.online/games/ducklife/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ducklife2",
+      "path": "https://seraph.reveriestudios.online/games/ducklife2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ducklife3",
+      "path": "https://seraph.reveriestudios.online/games/ducklife3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ducklife4",
+      "path": "https://seraph.reveriestudios.online/games/ducklife4/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ducklife5",
+      "path": "https://seraph.reveriestudios.online/games/ducklife5/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ducklife6",
+      "path": "https://seraph.reveriestudios.online/games/ducklife6/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ducktales",
+      "path": "https://seraph.reveriestudios.online/games/ducktales/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Dukenukem64",
+      "path": "https://seraph.reveriestudios.online/games/dukenukem64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Dukenukemadvance",
+      "path": "https://seraph.reveriestudios.online/games/dukenukemadvance/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Eagler1.8",
+      "path": "https://seraph.reveriestudios.online/games/eagler1.8/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Earthbound",
+      "path": "https://seraph.reveriestudios.online/games/earthbound/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Eccothedolphin",
+      "path": "https://seraph.reveriestudios.online/games/eccothedolphin/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Electricbox",
+      "path": "https://seraph.reveriestudios.online/games/electricbox/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Electricman2",
+      "path": "https://seraph.reveriestudios.online/games/electricman2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Epicbattlefantasy",
+      "path": "https://seraph.reveriestudios.online/games/epicbattlefantasy/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Epicbattlefantasy2",
+      "path": "https://seraph.reveriestudios.online/games/epicbattlefantasy2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Epicbattlefantasy3",
+      "path": "https://seraph.reveriestudios.online/games/epicbattlefantasy3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Escapingtheprison",
+      "path": "https://seraph.reveriestudios.online/games/escapingtheprison/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Excitebike64",
+      "path": "https://seraph.reveriestudios.online/games/excitebike64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Factoryballs",
+      "path": "https://seraph.reveriestudios.online/games/factoryballs/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fancypantsadventure",
+      "path": "https://seraph.reveriestudios.online/games/fancypantsadventure/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fancypantsadventure2",
+      "path": "https://seraph.reveriestudios.online/games/fancypantsadventure2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fancypantsadventure3",
+      "path": "https://seraph.reveriestudios.online/games/fancypantsadventure3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Feedme",
+      "path": "https://seraph.reveriestudios.online/games/feedme/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Finalfantasytacticsadvance",
+      "path": "https://seraph.reveriestudios.online/games/finalfantasytacticsadvance/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Finalfantasyvi",
+      "path": "https://seraph.reveriestudios.online/games/finalfantasyvi/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Finalninja",
+      "path": "https://seraph.reveriestudios.online/games/finalninja/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fireboywatergirl",
+      "path": "https://seraph.reveriestudios.online/games/fireboywatergirl/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fireemblem",
+      "path": "https://seraph.reveriestudios.online/games/fireemblem/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Flappy",
+      "path": "https://seraph.reveriestudios.online/games/flappy/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fleeingthecomplex",
+      "path": "https://seraph.reveriestudios.online/games/fleeingthecomplex/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Flippyfish",
+      "path": "https://seraph.reveriestudios.online/games/flippyfish/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Floodrunner2",
+      "path": "https://seraph.reveriestudios.online/games/floodrunner2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Floodrunner3",
+      "path": "https://seraph.reveriestudios.online/games/floodrunner3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fnaf",
+      "path": "https://seraph.reveriestudios.online/games/fnaf/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fnaf 2",
+      "path": "https://seraph.reveriestudios.online/games/fnaf-2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fnaf 3",
+      "path": "https://seraph.reveriestudios.online/games/fnaf-3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fnaf 4",
+      "path": "https://seraph.reveriestudios.online/games/fnaf-4/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fnf",
+      "path": "https://seraph.reveriestudios.online/games/fnf/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fnfmidfight",
+      "path": "https://seraph.reveriestudios.online/games/fnfmidfight/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fortnite",
+      "path": "https://seraph.reveriestudios.online/games/fortnite/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Frostbite",
+      "path": "https://seraph.reveriestudios.online/games/frostbite/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Frostbite2",
+      "path": "https://seraph.reveriestudios.online/games/frostbite2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fruitninja",
+      "path": "https://seraph.reveriestudios.online/games/fruitninja/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Funnymadracing",
+      "path": "https://seraph.reveriestudios.online/games/funnymadracing/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Funnyshooter2",
+      "path": "https://seraph.reveriestudios.online/games/funnyshooter2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fzero",
+      "path": "https://seraph.reveriestudios.online/games/fzero/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Fzerox",
+      "path": "https://seraph.reveriestudios.online/games/fzerox/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Garfieldgetsreal",
+      "path": "https://seraph.reveriestudios.online/games/garfieldgetsreal/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Gdlite",
+      "path": "https://seraph.reveriestudios.online/games/gdlite/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Geometrydashsky",
+      "path": "https://seraph.reveriestudios.online/games/geometrydashsky/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Geometryrash",
+      "path": "https://seraph.reveriestudios.online/games/geometryrash/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Getawayshootout",
+      "path": "https://seraph.reveriestudios.online/games/getawayshootout/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Gex64",
+      "path": "https://seraph.reveriestudios.online/games/gex64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Goball",
+      "path": "https://seraph.reveriestudios.online/games/goball/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Golddiggerfrvr",
+      "path": "https://seraph.reveriestudios.online/games/golddiggerfrvr/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Goldenaxe",
+      "path": "https://seraph.reveriestudios.online/games/goldenaxe/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Goldeneye007",
+      "path": "https://seraph.reveriestudios.online/games/goldeneye007/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Goldensun",
+      "path": "https://seraph.reveriestudios.online/games/goldensun/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Grandtheftgrotto",
+      "path": "https://seraph.reveriestudios.online/games/grandtheftgrotto/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Gunfest",
+      "path": "https://seraph.reveriestudios.online/games/gunfest/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Gunmayhem",
+      "path": "https://seraph.reveriestudios.online/games/gunmayhem/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Gunmayhem2",
+      "path": "https://seraph.reveriestudios.online/games/gunmayhem2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Gunmayhemredux",
+      "path": "https://seraph.reveriestudios.online/games/gunmayhemredux/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Gunstarheroes",
+      "path": "https://seraph.reveriestudios.online/games/gunstarheroes/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Happywheels",
+      "path": "https://seraph.reveriestudios.online/games/happywheels/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Harvestmoon",
+      "path": "https://seraph.reveriestudios.online/games/harvestmoon/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Harvestmoon64",
+      "path": "https://seraph.reveriestudios.online/games/harvestmoon64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Helixjump",
+      "path": "https://seraph.reveriestudios.online/games/helixjump/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Hexgl",
+      "path": "https://seraph.reveriestudios.online/games/hexgl/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Holeio",
+      "path": "https://seraph.reveriestudios.online/games/holeio/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Houseofhazards",
+      "path": "https://seraph.reveriestudios.online/games/houseofhazards/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Icebreaker",
+      "path": "https://seraph.reveriestudios.online/games/icebreaker/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Iceclimber",
+      "path": "https://seraph.reveriestudios.online/games/iceclimber/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Illusionofgaia",
+      "path": "https://seraph.reveriestudios.online/games/illusionofgaia/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Infiltratingtheairship",
+      "path": "https://seraph.reveriestudios.online/games/infiltratingtheairship/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Infinitecraft",
+      "path": "https://seraph.reveriestudios.online/games/infinitecraft/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Jetforcegemini",
+      "path": "https://seraph.reveriestudios.online/games/jetforcegemini/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Jetpackjoyride",
+      "path": "https://seraph.reveriestudios.online/games/jetpackjoyride/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Justfalllol",
+      "path": "https://seraph.reveriestudios.online/games/justfalllol/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Kidicarus",
+      "path": "https://seraph.reveriestudios.online/games/kidicarus/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Kirby64",
+      "path": "https://seraph.reveriestudios.online/games/kirby64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Kirbyamazingmirror",
+      "path": "https://seraph.reveriestudios.online/games/kirbyamazingmirror/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Kirbymassattack",
+      "path": "https://seraph.reveriestudios.online/games/kirbymassattack/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Kirbypowerpaintbrush",
+      "path": "https://seraph.reveriestudios.online/games/kirbypowerpaintbrush/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Kirbysdreamland",
+      "path": "https://seraph.reveriestudios.online/games/kirbysdreamland/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Kirbysdreamland2",
+      "path": "https://seraph.reveriestudios.online/games/kirbysdreamland2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Knifehit",
+      "path": "https://seraph.reveriestudios.online/games/knifehit/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Lazyjump3d",
+      "path": "https://seraph.reveriestudios.online/games/lazyjump3d/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Learntofly",
+      "path": "https://seraph.reveriestudios.online/games/learntofly/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Learntofly2",
+      "path": "https://seraph.reveriestudios.online/games/learntofly2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Learntofly3",
+      "path": "https://seraph.reveriestudios.online/games/learntofly3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Legobatman",
+      "path": "https://seraph.reveriestudios.online/games/legobatman/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Linerider",
+      "path": "https://seraph.reveriestudios.online/games/linerider/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Linksawakeningdx",
+      "path": "https://seraph.reveriestudios.online/games/linksawakeningdx/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Linktothepast",
+      "path": "https://seraph.reveriestudios.online/games/linktothepast/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Lowsadventures2",
+      "path": "https://seraph.reveriestudios.online/games/lowsadventures2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Majorasmask",
+      "path": "https://seraph.reveriestudios.online/games/majorasmask/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Marioandluigipartnersintime",
+      "path": "https://seraph.reveriestudios.online/games/marioandluigipartnersintime/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mariocombat",
+      "path": "https://seraph.reveriestudios.online/games/mariocombat/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mariogolf",
+      "path": "https://seraph.reveriestudios.online/games/mariogolf/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mariokart64",
+      "path": "https://seraph.reveriestudios.online/games/mariokart64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mariokartds",
+      "path": "https://seraph.reveriestudios.online/games/mariokartds/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mariokartsupercircuit",
+      "path": "https://seraph.reveriestudios.online/games/mariokartsupercircuit/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mariopaint",
+      "path": "https://seraph.reveriestudios.online/games/mariopaint/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Marioparty",
+      "path": "https://seraph.reveriestudios.online/games/marioparty/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Marioparty2",
+      "path": "https://seraph.reveriestudios.online/games/marioparty2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Marioparty3",
+      "path": "https://seraph.reveriestudios.online/games/marioparty3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mariopartyadvance",
+      "path": "https://seraph.reveriestudios.online/games/mariopartyadvance/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mariopartyds",
+      "path": "https://seraph.reveriestudios.online/games/mariopartyds/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mariopinballland",
+      "path": "https://seraph.reveriestudios.online/games/mariopinballland/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mariotennis",
+      "path": "https://seraph.reveriestudios.online/games/mariotennis/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mc",
+      "path": "https://seraph.reveriestudios.online/games/mc/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mcclassic",
+      "path": "https://seraph.reveriestudios.online/games/mcclassic/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mctowerdefence2",
+      "path": "https://seraph.reveriestudios.online/games/mctowerdefence2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Megaman2",
+      "path": "https://seraph.reveriestudios.online/games/megaman2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Megamanx",
+      "path": "https://seraph.reveriestudios.online/games/megamanx/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Megamanzero",
+      "path": "https://seraph.reveriestudios.online/games/megamanzero/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Metalgearsolid",
+      "path": "https://seraph.reveriestudios.online/games/metalgearsolid/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Metroid",
+      "path": "https://seraph.reveriestudios.online/games/metroid/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Metroidfusion",
+      "path": "https://seraph.reveriestudios.online/games/metroidfusion/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Metroidii",
+      "path": "https://seraph.reveriestudios.online/games/metroidii/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Minesweeper",
+      "path": "https://seraph.reveriestudios.online/games/minesweeper/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Monkeymart",
+      "path": "https://seraph.reveriestudios.online/games/monkeymart/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Monopoly",
+      "path": "https://seraph.reveriestudios.online/games/monopoly/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Monsterbrawl",
+      "path": "https://seraph.reveriestudios.online/games/monsterbrawl/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mortalkombat4",
+      "path": "https://seraph.reveriestudios.online/games/mortalkombat4/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mother3",
+      "path": "https://seraph.reveriestudios.online/games/mother3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Motox3m",
+      "path": "https://seraph.reveriestudios.online/games/motox3m/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Motox3mpool",
+      "path": "https://seraph.reveriestudios.online/games/motox3mpool/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Motox3mspooky",
+      "path": "https://seraph.reveriestudios.online/games/motox3mspooky/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Motox3mwinter",
+      "path": "https://seraph.reveriestudios.online/games/motox3mwinter/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Multitask",
+      "path": "https://seraph.reveriestudios.online/games/multitask/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mutiny",
+      "path": "https://seraph.reveriestudios.online/games/mutiny/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Mysticalninja",
+      "path": "https://seraph.reveriestudios.online/games/mysticalninja/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Neonrider",
+      "path": "https://seraph.reveriestudios.online/games/neonrider/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Newsupermariobros",
+      "path": "https://seraph.reveriestudios.online/games/newsupermariobros/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ngon",
+      "path": "https://seraph.reveriestudios.online/games/ngon/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ninjagaiden",
+      "path": "https://seraph.reveriestudios.online/games/ninjagaiden/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Nintendogs",
+      "path": "https://seraph.reveriestudios.online/games/nintendogs/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Nitromemustdie",
+      "path": "https://seraph.reveriestudios.online/games/nitromemustdie/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ocarinaoftime",
+      "path": "https://seraph.reveriestudios.online/games/ocarinaoftime/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Offlineparadise",
+      "path": "https://seraph.reveriestudios.online/games/offlineparadise/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Oodlegobs",
+      "path": "https://seraph.reveriestudios.online/games/oodlegobs/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Osumania",
+      "path": "https://seraph.reveriestudios.online/games/osumania/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ovo",
+      "path": "https://seraph.reveriestudios.online/games/ovo/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pacman",
+      "path": "https://seraph.reveriestudios.online/games/pacman/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pacmanworld",
+      "path": "https://seraph.reveriestudios.online/games/pacmanworld/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pakohighway",
+      "path": "https://seraph.reveriestudios.online/games/pakohighway/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pandemic2",
+      "path": "https://seraph.reveriestudios.online/games/pandemic2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papalouie",
+      "path": "https://seraph.reveriestudios.online/games/papalouie/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papalouie2",
+      "path": "https://seraph.reveriestudios.online/games/papalouie2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papalouie3",
+      "path": "https://seraph.reveriestudios.online/games/papalouie3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papasbakeria",
+      "path": "https://seraph.reveriestudios.online/games/papasbakeria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papasburgeria",
+      "path": "https://seraph.reveriestudios.online/games/papasburgeria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papascheeseria",
+      "path": "https://seraph.reveriestudios.online/games/papascheeseria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papascupcakeria",
+      "path": "https://seraph.reveriestudios.online/games/papascupcakeria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papasdonuteria",
+      "path": "https://seraph.reveriestudios.online/games/papasdonuteria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papasfreezeria",
+      "path": "https://seraph.reveriestudios.online/games/papasfreezeria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papashotdoggeria",
+      "path": "https://seraph.reveriestudios.online/games/papashotdoggeria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papaspancakeria",
+      "path": "https://seraph.reveriestudios.online/games/papaspancakeria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papaspastaria",
+      "path": "https://seraph.reveriestudios.online/games/papaspastaria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papaspizzaria",
+      "path": "https://seraph.reveriestudios.online/games/papaspizzaria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papasscooperia",
+      "path": "https://seraph.reveriestudios.online/games/papasscooperia/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papassushiria",
+      "path": "https://seraph.reveriestudios.online/games/papassushiria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papastacomia",
+      "path": "https://seraph.reveriestudios.online/games/papastacomia/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papaswingeria",
+      "path": "https://seraph.reveriestudios.online/games/papaswingeria/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Paperio2",
+      "path": "https://seraph.reveriestudios.online/games/paperio2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Paperio3d",
+      "path": "https://seraph.reveriestudios.online/games/paperio3d/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Papermario",
+      "path": "https://seraph.reveriestudios.online/games/papermario/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Phantasystariv",
+      "path": "https://seraph.reveriestudios.online/games/phantasystariv/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pickcrafter",
+      "path": "https://seraph.reveriestudios.online/games/pickcrafter/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Picrossds",
+      "path": "https://seraph.reveriestudios.online/games/picrossds/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pizzatower",
+      "path": "https://seraph.reveriestudios.online/games/pizzatower/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemondiamond",
+      "path": "https://seraph.reveriestudios.online/games/pokemondiamond/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonemerald",
+      "path": "https://seraph.reveriestudios.online/games/pokemonemerald/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonfirered",
+      "path": "https://seraph.reveriestudios.online/games/pokemonfirered/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonleafgreen",
+      "path": "https://seraph.reveriestudios.online/games/pokemonleafgreen/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonmysterydungeon",
+      "path": "https://seraph.reveriestudios.online/games/pokemonmysterydungeon/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonplatinum",
+      "path": "https://seraph.reveriestudios.online/games/pokemonplatinum/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonruby",
+      "path": "https://seraph.reveriestudios.online/games/pokemonruby/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonsapphire",
+      "path": "https://seraph.reveriestudios.online/games/pokemonsapphire/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonsnap",
+      "path": "https://seraph.reveriestudios.online/games/pokemonsnap/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonsoulsilver",
+      "path": "https://seraph.reveriestudios.online/games/pokemonsoulsilver/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonstadium",
+      "path": "https://seraph.reveriestudios.online/games/pokemonstadium/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonunbound",
+      "path": "https://seraph.reveriestudios.online/games/pokemonunbound/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pokemonyellow",
+      "path": "https://seraph.reveriestudios.online/games/pokemonyellow/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Pool",
+      "path": "https://seraph.reveriestudios.online/games/pool/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Portal",
+      "path": "https://seraph.reveriestudios.online/games/portal/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Portal2",
+      "path": "https://seraph.reveriestudios.online/games/portal2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Precisionclient",
+      "path": "https://seraph.reveriestudios.online/games/precisionclient/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Professorlayton",
+      "path": "https://seraph.reveriestudios.online/games/professorlayton/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Punchout",
+      "path": "https://seraph.reveriestudios.online/games/punchout/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Quest64",
+      "path": "https://seraph.reveriestudios.online/games/quest64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Rabbitsamurai",
+      "path": "https://seraph.reveriestudios.online/games/rabbitsamurai/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Raftwars",
+      "path": "https://seraph.reveriestudios.online/games/raftwars/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Raftwars2",
+      "path": "https://seraph.reveriestudios.online/games/raftwars2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Rangerx",
+      "path": "https://seraph.reveriestudios.online/games/rangerx/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Rayman3",
+      "path": "https://seraph.reveriestudios.online/games/rayman3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Recoil",
+      "path": "https://seraph.reveriestudios.online/games/recoil/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Redball1",
+      "path": "https://seraph.reveriestudios.online/games/redball1/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Redball3",
+      "path": "https://seraph.reveriestudios.online/games/redball3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Redball4",
+      "path": "https://seraph.reveriestudios.online/games/redball4/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Redballv2",
+      "path": "https://seraph.reveriestudios.online/games/redballv2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Redballv3",
+      "path": "https://seraph.reveriestudios.online/games/redballv3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Retrobowl",
+      "path": "https://seraph.reveriestudios.online/games/retrobowl/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Riddleschool",
+      "path": "https://seraph.reveriestudios.online/games/riddleschool/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Risehigher",
+      "path": "https://seraph.reveriestudios.online/games/risehigher/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ristar",
+      "path": "https://seraph.reveriestudios.online/games/ristar/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Roblox",
+      "path": "https://seraph.reveriestudios.online/games/roblox/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Rocketsoccer",
+      "path": "https://seraph.reveriestudios.online/games/rocketsoccer/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Rooftop",
+      "path": "https://seraph.reveriestudios.online/games/rooftop/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Rooftop2",
+      "path": "https://seraph.reveriestudios.online/games/rooftop2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Roughdino",
+      "path": "https://seraph.reveriestudios.online/games/roughdino/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Run",
+      "path": "https://seraph.reveriestudios.online/games/run/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Run2",
+      "path": "https://seraph.reveriestudios.online/games/run2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Run3",
+      "path": "https://seraph.reveriestudios.online/games/run3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Run3plus",
+      "path": "https://seraph.reveriestudios.online/games/run3plus/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sandtrix",
+      "path": "https://seraph.reveriestudios.online/games/sandtrix/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Scribblenauts",
+      "path": "https://seraph.reveriestudios.online/games/scribblenauts/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Shapeshipper",
+      "path": "https://seraph.reveriestudios.online/games/shapeshipper/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Shift",
+      "path": "https://seraph.reveriestudios.online/games/shift/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Shift2",
+      "path": "https://seraph.reveriestudios.online/games/shift2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Shift3",
+      "path": "https://seraph.reveriestudios.online/games/shift3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Shift4",
+      "path": "https://seraph.reveriestudios.online/games/shift4/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Shiningforce",
+      "path": "https://seraph.reveriestudios.online/games/shiningforce/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Shinobiiii",
+      "path": "https://seraph.reveriestudios.online/games/shinobiiii/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Shopempire",
+      "path": "https://seraph.reveriestudios.online/games/shopempire/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Shopempirefable",
+      "path": "https://seraph.reveriestudios.online/games/shopempirefable/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Shrek2",
+      "path": "https://seraph.reveriestudios.online/games/shrek2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Simcity",
+      "path": "https://seraph.reveriestudios.online/games/simcity/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Simpsonsroadrage",
+      "path": "https://seraph.reveriestudios.online/games/simpsonsroadrage/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Skibidi1v100",
+      "path": "https://seraph.reveriestudios.online/games/skibidi1v100/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Skibiditoiletattack",
+      "path": "https://seraph.reveriestudios.online/games/skibiditoiletattack/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Skywire",
+      "path": "https://seraph.reveriestudios.online/games/skywire/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Skywire2",
+      "path": "https://seraph.reveriestudios.online/games/skywire2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Slope",
+      "path": "https://seraph.reveriestudios.online/games/slope/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Slope2",
+      "path": "https://seraph.reveriestudios.online/games/slope2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Slopeball",
+      "path": "https://seraph.reveriestudios.online/games/slopeball/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Slopecity",
+      "path": "https://seraph.reveriestudios.online/games/slopecity/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sm64",
+      "path": "https://seraph.reveriestudios.online/games/sm64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sm64ds",
+      "path": "https://seraph.reveriestudios.online/games/sm64ds/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Snake",
+      "path": "https://seraph.reveriestudios.online/games/snake/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Snowbattleio",
+      "path": "https://seraph.reveriestudios.online/games/snowbattleio/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Snowrider3d",
+      "path": "https://seraph.reveriestudios.online/games/snowrider3d/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Soccerrandom",
+      "path": "https://seraph.reveriestudios.online/games/soccerrandom/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Solitaire",
+      "path": "https://seraph.reveriestudios.online/games/solitaire/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sonicadvance",
+      "path": "https://seraph.reveriestudios.online/games/sonicadvance/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sonicadvance2",
+      "path": "https://seraph.reveriestudios.online/games/sonicadvance2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sonicandknuckles",
+      "path": "https://seraph.reveriestudios.online/games/sonicandknuckles/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sonicrush",
+      "path": "https://seraph.reveriestudios.online/games/sonicrush/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sonicspinball",
+      "path": "https://seraph.reveriestudios.online/games/sonicspinball/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sonicthehedgehog",
+      "path": "https://seraph.reveriestudios.online/games/sonicthehedgehog/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sonicthehedgehog2",
+      "path": "https://seraph.reveriestudios.online/games/sonicthehedgehog2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sonicthehedgehog3",
+      "path": "https://seraph.reveriestudios.online/games/sonicthehedgehog3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sortthecourt",
+      "path": "https://seraph.reveriestudios.online/games/sortthecourt/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Spaceinvaders",
+      "path": "https://seraph.reveriestudios.online/games/spaceinvaders/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Spirittracks",
+      "path": "https://seraph.reveriestudios.online/games/spirittracks/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sprinter",
+      "path": "https://seraph.reveriestudios.online/games/sprinter/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Stack",
+      "path": "https://seraph.reveriestudios.online/games/stack/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Stairrace3d",
+      "path": "https://seraph.reveriestudios.online/games/stairrace3d/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Starfox64",
+      "path": "https://seraph.reveriestudios.online/games/starfox64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Stateio",
+      "path": "https://seraph.reveriestudios.online/games/stateio/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Steakandjake",
+      "path": "https://seraph.reveriestudios.online/games/steakandjake/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Steakandjakemidnightmarch",
+      "path": "https://seraph.reveriestudios.online/games/steakandjakemidnightmarch/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Stealingthediamond",
+      "path": "https://seraph.reveriestudios.online/games/stealingthediamond/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Stickmanboost",
+      "path": "https://seraph.reveriestudios.online/games/stickmanboost/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Stickmanclimb",
+      "path": "https://seraph.reveriestudios.online/games/stickmanclimb/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Stickmangolf",
+      "path": "https://seraph.reveriestudios.online/games/stickmangolf/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Stickmanhook",
+      "path": "https://seraph.reveriestudios.online/games/stickmanhook/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Stickwar",
+      "path": "https://seraph.reveriestudios.online/games/stickwar/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Stickwar2",
+      "path": "https://seraph.reveriestudios.online/games/stickwar2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Streetfighter2",
+      "path": "https://seraph.reveriestudios.online/games/streetfighter2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Streetsofrage",
+      "path": "https://seraph.reveriestudios.online/games/streetsofrage/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Streetsofrage2",
+      "path": "https://seraph.reveriestudios.online/games/streetsofrage2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Subwayrunner",
+      "path": "https://seraph.reveriestudios.online/games/subwayrunner/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Subwaysurfers",
+      "path": "https://seraph.reveriestudios.online/games/subwaysurfers/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Sudoku",
+      "path": "https://seraph.reveriestudios.online/games/sudoku/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Superbomberman",
+      "path": "https://seraph.reveriestudios.online/games/superbomberman/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Superherodrop",
+      "path": "https://seraph.reveriestudios.online/games/superherodrop/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Superhot",
+      "path": "https://seraph.reveriestudios.online/games/superhot/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermariobros",
+      "path": "https://seraph.reveriestudios.online/games/supermariobros/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermariobros2",
+      "path": "https://seraph.reveriestudios.online/games/supermariobros2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermariobros3",
+      "path": "https://seraph.reveriestudios.online/games/supermariobros3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermarioconstruct",
+      "path": "https://seraph.reveriestudios.online/games/supermarioconstruct/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermarioflash",
+      "path": "https://seraph.reveriestudios.online/games/supermarioflash/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermarioflash2",
+      "path": "https://seraph.reveriestudios.online/games/supermarioflash2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermariokart",
+      "path": "https://seraph.reveriestudios.online/games/supermariokart/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermarioland",
+      "path": "https://seraph.reveriestudios.online/games/supermarioland/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermarioland2",
+      "path": "https://seraph.reveriestudios.online/games/supermarioland2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermariorpg",
+      "path": "https://seraph.reveriestudios.online/games/supermariorpg/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermarioworld",
+      "path": "https://seraph.reveriestudios.online/games/supermarioworld/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermeatboy",
+      "path": "https://seraph.reveriestudios.online/games/supermeatboy/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermetroid",
+      "path": "https://seraph.reveriestudios.online/games/supermetroid/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supermonkeyballjr",
+      "path": "https://seraph.reveriestudios.online/games/supermonkeyballjr/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Superprincesspeach",
+      "path": "https://seraph.reveriestudios.online/games/superprincesspeach/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supersmashbros",
+      "path": "https://seraph.reveriestudios.online/games/supersmashbros/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supersmashflash",
+      "path": "https://seraph.reveriestudios.online/games/supersmashflash/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Superstarsaga",
+      "path": "https://seraph.reveriestudios.online/games/superstarsaga/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supertennis",
+      "path": "https://seraph.reveriestudios.online/games/supertennis/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Supertreadmill",
+      "path": "https://seraph.reveriestudios.online/games/supertreadmill/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Surf",
+      "path": "https://seraph.reveriestudios.online/games/surf/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Swindler",
+      "path": "https://seraph.reveriestudios.online/games/swindler/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Swordsandsandals",
+      "path": "https://seraph.reveriestudios.online/games/swordsandsandals/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Swordsandsandals2",
+      "path": "https://seraph.reveriestudios.online/games/swordsandsandals2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Tabs",
+      "path": "https://seraph.reveriestudios.online/games/tabs/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Tanukisunset",
+      "path": "https://seraph.reveriestudios.online/games/tanukisunset/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Templerun2",
+      "path": "https://seraph.reveriestudios.online/games/templerun2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Territorialio",
+      "path": "https://seraph.reveriestudios.online/games/territorialio/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Testsubjectarena",
+      "path": "https://seraph.reveriestudios.online/games/testsubjectarena/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Testsubjectcomplete",
+      "path": "https://seraph.reveriestudios.online/games/testsubjectcomplete/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Tetris",
+      "path": "https://seraph.reveriestudios.online/games/tetris/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Tetrisds",
+      "path": "https://seraph.reveriestudios.online/games/tetrisds/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Thebindingofisaac",
+      "path": "https://seraph.reveriestudios.online/games/thebindingofisaac/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Theimpossiblequiz",
+      "path": "https://seraph.reveriestudios.online/games/theimpossiblequiz/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Theimpossiblequiz2",
+      "path": "https://seraph.reveriestudios.online/games/theimpossiblequiz2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Thelegendofzelda",
+      "path": "https://seraph.reveriestudios.online/games/thelegendofzelda/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Themehotel",
+      "path": "https://seraph.reveriestudios.online/games/themehotel/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Thereisnogame",
+      "path": "https://seraph.reveriestudios.online/games/thereisnogame/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Thesims2",
+      "path": "https://seraph.reveriestudios.online/games/thesims2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Thesims3",
+      "path": "https://seraph.reveriestudios.online/games/thesims3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Thisistheonlylevel",
+      "path": "https://seraph.reveriestudios.online/games/thisistheonlylevel/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Thumbfighter",
+      "path": "https://seraph.reveriestudios.online/games/thumbfighter/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Timeshooter1",
+      "path": "https://seraph.reveriestudios.online/games/timeshooter1/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Timeshooter2",
+      "path": "https://seraph.reveriestudios.online/games/timeshooter2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Timeshooter3",
+      "path": "https://seraph.reveriestudios.online/games/timeshooter3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Tinyfishing",
+      "path": "https://seraph.reveriestudios.online/games/tinyfishing/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Townscaper",
+      "path": "https://seraph.reveriestudios.online/games/townscaper/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Tron",
+      "path": "https://seraph.reveriestudios.online/games/tron/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Tubejumpers",
+      "path": "https://seraph.reveriestudios.online/games/tubejumpers/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Tunnelrush",
+      "path": "https://seraph.reveriestudios.online/games/tunnelrush/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Turokdinosaurhunter",
+      "path": "https://seraph.reveriestudios.online/games/turokdinosaurhunter/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Twinshot",
+      "path": "https://seraph.reveriestudios.online/games/twinshot/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Twinshot2",
+      "path": "https://seraph.reveriestudios.online/games/twinshot2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Ultimateflashsonic",
+      "path": "https://seraph.reveriestudios.online/games/ultimateflashsonic/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Unfairmario",
+      "path": "https://seraph.reveriestudios.online/games/unfairmario/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Vectorman",
+      "path": "https://seraph.reveriestudios.online/games/vectorman/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Vectorman2",
+      "path": "https://seraph.reveriestudios.online/games/vectorman2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Vex",
+      "path": "https://seraph.reveriestudios.online/games/vex/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Vex2",
+      "path": "https://seraph.reveriestudios.online/games/vex2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Vex3",
+      "path": "https://seraph.reveriestudios.online/games/vex3/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Vex4",
+      "path": "https://seraph.reveriestudios.online/games/vex4/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Vex5",
+      "path": "https://seraph.reveriestudios.online/games/vex5/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Vex6",
+      "path": "https://seraph.reveriestudios.online/games/vex6/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Vex7",
+      "path": "https://seraph.reveriestudios.online/games/vex7/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Volleyrandom",
+      "path": "https://seraph.reveriestudios.online/games/volleyrandom/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Wallsmash",
+      "path": "https://seraph.reveriestudios.online/games/wallsmash/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Warioland4",
+      "path": "https://seraph.reveriestudios.online/games/warioland4/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Wariolandii",
+      "path": "https://seraph.reveriestudios.online/games/wariolandii/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Warioswoods",
+      "path": "https://seraph.reveriestudios.online/games/warioswoods/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Warioware",
+      "path": "https://seraph.reveriestudios.online/games/warioware/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Wariowarediy",
+      "path": "https://seraph.reveriestudios.online/games/wariowarediy/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Wariowaretouched",
+      "path": "https://seraph.reveriestudios.online/games/wariowaretouched/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Watermelongame",
+      "path": "https://seraph.reveriestudios.online/games/watermelongame/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Waterworks",
+      "path": "https://seraph.reveriestudios.online/games/waterworks/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Waverace64",
+      "path": "https://seraph.reveriestudios.online/games/waverace64/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Wordle",
+      "path": "https://seraph.reveriestudios.online/games/wordle/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Worldshardestgame",
+      "path": "https://seraph.reveriestudios.online/games/worldshardestgame/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Worldshardestgame2",
+      "path": "https://seraph.reveriestudios.online/games/worldshardestgame2/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Wormsworldparty",
+      "path": "https://seraph.reveriestudios.online/games/wormsworldparty/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Wubzzysamazingadventure",
+      "path": "https://seraph.reveriestudios.online/games/wubzzysamazingadventure/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Xx142 B2.Exe",
+      "path": "https://seraph.reveriestudios.online/games/xx142-b2.exe/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Yohoho",
+      "path": "https://seraph.reveriestudios.online/games/yohoho/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Yoshisisland",
+      "path": "https://seraph.reveriestudios.online/games/yoshisisland/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Yoshisstory",
+      "path": "https://seraph.reveriestudios.online/games/yoshisstory/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Zombocalypse",
+      "path": "https://seraph.reveriestudios.online/games/zombocalypse/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Zombotron",
+      "path": "https://seraph.reveriestudios.online/games/zombotron/",
+      "source": "Seraph",
+      "kind": "external"
+    },
+    {
+      "name": "Zombotron2",
+      "path": "https://seraph.reveriestudios.online/games/zombotron2/",
+      "source": "Seraph",
+      "kind": "external"
+    }
+  ]
+}
